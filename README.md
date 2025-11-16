@@ -1,1 +1,1 @@
-# template-ts
+# Day 1 Viem
